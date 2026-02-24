@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="#0E0F10"/>
+  <!-- WUBRG ring -->
+  <circle cx="512" cy="202" r="28" fill="#F8F2E2"/>
+  <circle cx="744" cy="352" r="28" fill="#0E68AB"/>
+  <circle cx="660" cy="700" r="28" fill="#150B00"/>
+  <circle cx="364" cy="700" r="28" fill="#D3202E"/>
+  <circle cx="280" cy="352" r="28" fill="#00733E"/>
+  <!-- D20 outline (minimalist) -->
+  <polygon points="512,270 730,420 660,720 364,720 294,420" fill="none" stroke="#F8F2E2" stroke-width="14" stroke-linejoin="round"/>
+  <line x1="512" y1="270" x2="364" y2="720" stroke="#F8F2E2" stroke-width="12" stroke-linejoin="round"/>
+  <line x1="512" y1="270" x2="660" y2="720" stroke="#F8F2E2" stroke-width="12" stroke-linejoin="round"/>
+  <line x1="294" y1="420" x2="730" y2="420" stroke="#F8F2E2" stroke-width="12" stroke-linejoin="round"/>
+</svg>
