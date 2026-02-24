@@ -1,5 +1,7 @@
 # Contador de Vida MTG
 
+[![Android Build](https://github.com/nuxman/contador_de_vida_mtg/actions/workflows/android.yml/badge.svg)](https://github.com/nuxman/contador_de_vida_mtg/actions/workflows/android.yml)
+
 Aplicação mobile para Magic: The Gathering com foco em partidas multiplayer (2 a 6 jogadores). Interface full‑screen, controles rápidos e experiência otimizada para mesa real.
 
 **Destaques**
